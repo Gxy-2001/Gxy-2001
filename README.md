@@ -1,8 +1,19 @@
-### Hi there 👋
+### Hi! Gxy there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gxy-2001&hide=contribs,prs&count_private=true&theme=graywhite&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/Gxy-2001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gxy-2001&hide=prs&count_private=true&theme=graywhite&show_icons=true" />
+</a>
+<a href="https://github.com/Gxy-2001">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxy-2001&hide=html&layout=compact" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gxy-2001&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+- Hey there! I'm Gxy. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+- 🎓 Studying Software Engineering in NJU.
+- 💼 Back-end Developer.
+- 🌱 Enthusiast in Artificial Intelligence.
+- 😄 TV Series and Movies are My Favorite, Rick and Morty Especially.
+
+
 <!--
 **Gxy-2001/Gxy-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
