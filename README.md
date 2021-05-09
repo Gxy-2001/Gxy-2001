@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxy-2001&hide=html&layout=compact" />
 </a>
 
-- Hey there! I'm Gxy. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+-  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2> Hey there!  I'm Gxy. 
 - 🎓 Studying Software Engineering in NJU.
 - 💼 Back-end Developer.
 - 🌱 Enthusiast in Artificial Intelligence.
