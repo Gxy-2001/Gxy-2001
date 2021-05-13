@@ -1,4 +1,4 @@
-### Hi! there 👋
+### Hi there! 👋
 
 <a href="https://github.com/Gxy-2001">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gxy-2001&hide=prs&count_private=true&theme=graywhite&show_icons=true" />
