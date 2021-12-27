@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there!
 
 <a href="https://github.com/Gxy-2001">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Gxy-2001&hide=prs&count_private=true&theme=graywhite&show_icons=true" />
@@ -7,7 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gxy-2001&hide=html&layout=compact" />
 </a>
 
--  <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2> Hi there!  I'm Gxy. 
+- 👋 Hi there!  I'm Gxy. 
 - 🎓 Studying Software Engineering in NJU.
 - 💼 Back-end Developer.
 - 🌱 Enthusiast in Artificial Intelligence.
