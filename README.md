@@ -9,8 +9,8 @@
 
 - 👋 Hi there!  I'm Gxy. 
 - 🎓 Studying Software Engineering in NJU.
-- 💼 Back-end Developer.
-- 🌱 Enthusiast in Artificial Intelligence.
+- 💼 Developer.
+- 🌱 Enthusiast in Cloud Native.
 - 😄 TV Series and Movies are My Favorite, Rick and Morty Especially.
 
 
