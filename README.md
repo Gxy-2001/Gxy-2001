@@ -8,7 +8,7 @@
 </a>
 
 - 👋 Hi there!  I'm Gxy. 
-- 🎓 Studying Software Engineering in NJU.
+- 🎓 Studying Computer Technology in PKU.
 - 💼 Developer.
 - 🌱 Enthusiast in Cloud Native.
 - 😄 TV Series and Movies are My Favorite, Rick and Morty Especially.
