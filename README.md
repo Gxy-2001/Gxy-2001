@@ -10,11 +10,11 @@
 - 👋 Hi there!  I'm Gxy. 
 - 🎓 Studying Computer Technology in PKU.
 - 💼 Developer.
-- 🌱 Enthusiast in Cloud Native.
 - 😄 TV Series and Movies are My Favorite, Rick and Morty Especially.
 
 
 <!--
+- 🌱 Enthusiast in Cloud Native.
 **Gxy-2001/Gxy-2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
